@@ -1,0 +1,3 @@
+com\cxf\entity\Student.class
+com\cxf\service\StudentService.class
+com\cxf\service\impl\StudentServiceImpl.class
